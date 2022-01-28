@@ -20,3 +20,5 @@ directly accept pull requests.
 
 Instead, to propose a change, please fork [pantheon-systems/drupal-project](https://github.com/pantheon-systems/drupal-project)
 and submit a PR to that repository.
+
+This is a change in GitHub
